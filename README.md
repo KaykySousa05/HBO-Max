@@ -3,6 +3,7 @@ O projeto é um clone do site HBO Max, com o intuito de reproduzir a interface, 
 O clone do site HBO Max serve como desafio para os alunos da plataforma testarem seus conhecimentos e colocarem em prática os recursos de HTML e CSS abordados nos cursos.
 
 <h2>✨ Features</h2>
+
 - Menu de navegação
 - Cabeçalho com animação gradiente
 - Cards com os planos de assinatura animados
